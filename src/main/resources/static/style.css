@@ -1,0 +1,33 @@
+.header-list{
+    display: inline-block;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+nav {
+    position: fixed;
+    top: 0px;
+
+    background-color: #000066;
+    /*text-align: center;*/
+    /*padding-top: 20px;*/
+    /*padding-bottom: 20px;*/
+}
+
+header{
+    background-color: #000066;
+    color: #ffffff;
+}
+
+a {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #ff6600 ;
+}
